@@ -1,0 +1,10 @@
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.csprojAssemblyReference.cache
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.Views.MainForm.resources
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.Properties.Resources.resources
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.csproj.GenerateResource.cache
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.csproj.CoreCompileInputs.cache
+C:\Users\dontc\source\repos\HomeworkProject\bin\Debug\HomeworkProject.exe.config
+C:\Users\dontc\source\repos\HomeworkProject\bin\Debug\HomeworkProject.exe
+C:\Users\dontc\source\repos\HomeworkProject\bin\Debug\HomeworkProject.pdb
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.exe
+C:\Users\dontc\source\repos\HomeworkProject\obj\Debug\HomeworkProject.pdb
